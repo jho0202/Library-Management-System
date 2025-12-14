@@ -1,6 +1,6 @@
 <?php 
 // DB credentials.
-define('DB_HOST','librarysystemproject.atwebpages.com');
+define('DB_HOST','jho0202-library-management-system.vercel.app');
 define('DB_USER','4717989');
 define('DB_PASS','JosephProject1');
 define('DB_NAME','4717989_library');
