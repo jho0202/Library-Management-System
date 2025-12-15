@@ -1,5 +1,5 @@
 <?php 
-define('DB_HOST','library-management-system-e5v7.onrender.com');
+define('DB_HOST','library-management-system-wasmer.app');
 define('DB_USER','root');
 define('DB_PASS','');
 define('DB_NAME','library');
