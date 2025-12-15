@@ -1,6 +1,6 @@
 <?php 
 // DB credentials.
-define('DB_HOST','library-management-system1-wasmer.app');
+define('DB_HOST','library-management-system2-wasmer.app');
 define('DB_USER','root');
 define('DB_PASS','');
 define('DB_NAME','library');
