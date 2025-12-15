@@ -1,8 +1,8 @@
 <?php 
 define('DB_HOST','jho0202-library-management-system.vercel.app');
-define('DB_USER','4717989');
-define('DB_PASS','JosephProject1');
-define('DB_NAME','4717989_library');
+define('DB_USER','root');
+define('DB_PASS','');
+define('DB_NAME','library');
 
 try
 {
