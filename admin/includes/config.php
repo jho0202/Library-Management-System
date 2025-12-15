@@ -1,6 +1,6 @@
 <?php 
 // DB credentials.
-define('DB_HOST','jho0202-library-management-system.vercel.app');
+define('DB_HOST','library-management-system-e5v7.onrender.com');
 define('DB_USER','root');
 define('DB_PASS','');
 define('DB_NAME','library');
